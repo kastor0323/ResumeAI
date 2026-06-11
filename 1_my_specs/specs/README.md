@@ -76,6 +76,7 @@ updated: 2026-01-15
 
 | 직무 | experiences/ | competencies/ | motivations/ |
 | ---- | ------------ | ------------- | ------------ |
+| **백엔드 개발자** | [stock_anomaly_detection](file:///c:/Coding/WorkSpace/자기소개서/1_my_specs/specs/experiences/stock_anomaly_detection.md), [ai_rebalancing_app](file:///c:/Coding/WorkSpace/자기소개서/1_my_specs/specs/experiences/ai_rebalancing_app.md), [resume_evaluator](file:///c:/Coding/WorkSpace/자기소개서/1_my_specs/specs/experiences/resume_evaluator.md) | | |
 
 ---
 
@@ -83,9 +84,9 @@ updated: 2026-01-15
 
 | 회사 유형           | 강조할 역량                                | 강조할 경험 |
 | ------------------- | ------------------------------------------ | ----------- |
-| **대기업**          | leadership, teamwork                       |             |
-| **스타트업/핀테크** | problem_solving, data_driven               |             |
-| **네이버/카카오**   | communication (가치 번역), problem_solving |             |
+| **대기업**          | leadership, teamwork                       | [ai_rebalancing_app](file:///c:/Coding/WorkSpace/자기소개서/1_my_specs/specs/experiences/ai_rebalancing_app.md) |
+| **스타트업/핀테크** | problem_solving, data_driven               | [stock_anomaly_detection](file:///c:/Coding/WorkSpace/자기소개서/1_my_specs/specs/experiences/stock_anomaly_detection.md), [ai_rebalancing_app](file:///c:/Coding/WorkSpace/자기소개서/1_my_specs/specs/experiences/ai_rebalancing_app.md), [resume_evaluator](file:///c:/Coding/WorkSpace/자기소개서/1_my_specs/specs/experiences/resume_evaluator.md) |
+| **네이버/카카오**   | communication (가치 번역), problem_solving | [stock_anomaly_detection](file:///c:/Coding/WorkSpace/자기소개서/1_my_specs/specs/experiences/stock_anomaly_detection.md) |
 | **보안/IT 인프라**  | problem_solving, teamwork                  |             |
 | **삼성**            | 사회이슈 분석 필요 + 성장과정              | (보완 필요) |
 | **소재/제조**       | persistence, teamwork                      |             |
@@ -96,6 +97,9 @@ updated: 2026-01-15
 
 | Spec | 임팩트 | 정량적 성과 | 추천 용도 |
 | ---- | ------ | ----------- | --------- |
+| [stock_anomaly_detection](file:///c:/Coding/WorkSpace/자기소개서/1_my_specs/specs/experiences/stock_anomaly_detection.md) | 4 | 원장 불일치 0건 검증, 75,000건 대사 처리 | 백엔드 직무경험, 동시성/대용량 트러블슈팅 |
+| [ai_rebalancing_app](file:///c:/Coding/WorkSpace/자기소개서/1_my_specs/specs/experiences/ai_rebalancing_app.md) | 5 | 기업연계 경진대회 동상, 특허 출원, AI 모델 R²=0.9896 | 백엔드 직무경험, AI 융합/보안 트러블슈팅, 도전적 성과 |
+| [resume_evaluator](file:///c:/Coding/WorkSpace/자기소개서/1_my_specs/specs/experiences/resume_evaluator.md) | 3 | 다중서버 연동 API 구축 완료 | 백엔드 직무경험, 풀스택 서비스 연동 |
 
 ---
 
